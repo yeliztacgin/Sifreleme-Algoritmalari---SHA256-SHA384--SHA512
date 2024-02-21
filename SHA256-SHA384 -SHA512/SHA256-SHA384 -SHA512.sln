@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256-SHA384 -SHA512", "SHA256-SHA384 -SHA512\SHA256-SHA384 -SHA512.csproj", "{79D293A8-F1EC-4477-AE9B-9A4F470F834A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D293A8-F1EC-4477-AE9B-9A4F470F834A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D293A8-F1EC-4477-AE9B-9A4F470F834A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D293A8-F1EC-4477-AE9B-9A4F470F834A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D293A8-F1EC-4477-AE9B-9A4F470F834A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19384D0C-BB80-4F86-890E-AC9847FF53DA}
+	EndGlobalSection
+EndGlobal
